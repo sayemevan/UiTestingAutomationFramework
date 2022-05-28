@@ -48,4 +48,9 @@ public class FrameworkSubroutine {
             errorMsgArrayInsert(errorStackTracePrint(e), null);
         }
     }
+
+    public static String frmSubGetMethodName(final int depth) {
+        final StackTraceElement[] stackTraceElements = Thread.currentThread().getStackTrace();
+        return stackTraceElements[stackTraceElements.length - 1 - depth].getMethodName();
+    }
 }

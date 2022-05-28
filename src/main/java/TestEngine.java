@@ -1,5 +1,7 @@
 import appSpecificMethods.FunctionalMethods;
 
+import static reports.ErrorMessageReport.errorMsgArrayInsert;
+
 /**
 * Author & Architect: Md. Sayem Sikder
 * QA Automation Engineer & Software Developer
