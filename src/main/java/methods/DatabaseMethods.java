@@ -5,5 +5,5 @@ package methods;
  * QA Automation Engineer & Software Developer
  **/
 
-public class DatabaseMethods {
+public class DatabaseMethods extends UtilityMethods{
 }

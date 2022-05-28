@@ -5,5 +5,5 @@ package methods;
  * QA Automation Engineer & Software Developer
  **/
 
-public class UtilityMethods {
+public class UtilityMethods extends FrameworkSubroutine{
 }

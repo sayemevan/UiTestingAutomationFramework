@@ -5,5 +5,5 @@ package methods;
  * QA Automation Engineer & Software Developer
  **/
 
-public class GenericMethods {
+public class GenericMethods extends DatabaseMethods{
 }
