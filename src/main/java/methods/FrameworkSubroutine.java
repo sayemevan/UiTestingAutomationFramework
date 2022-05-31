@@ -15,7 +15,7 @@ import static reports.ErrorMessageReport.*;
 import static utilityClasses.ExternalFileUtilities.*;
 
 /**
- * Author & Architect: Md. Sayem Sikder
+ * Author: Md. Sayem Sikder
  * QA Automation Engineer & Software Developer
  **/
 

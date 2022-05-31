@@ -1,7 +1,7 @@
 package methods;
 
 /**
- * Author & Architect: Md. Sayem Sikder
+ * Author: Md. Sayem Sikder
  * QA Automation Engineer & Software Developer
  **/
 
